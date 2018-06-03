@@ -3,6 +3,7 @@ GifInteraction App
 GifInteraction App is based on ZLSwipeableView.
 
 Preview
+![alt text](https://github.com/rahanazkp/Verbat--First-name-of-candidate---last-name-of-candidate-/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%206%20-%202018-06-03%20at%2011.32.40.png)
 
 CocoaPods Used
 You can install ZLSwipeableViewSwift through CocoaPods adding the following to your Podfile:
