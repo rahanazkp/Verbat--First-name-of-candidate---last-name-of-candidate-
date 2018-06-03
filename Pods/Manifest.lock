@@ -1,0 +1,24 @@
+PODS:
+  - Cartography (3.0.1)
+  - "UIColor+FlatColors (0.0.2)"
+  - ZLSwipeableViewSwift (0.0.7)
+
+DEPENDENCIES:
+  - Cartography
+  - "UIColor+FlatColors"
+  - ZLSwipeableViewSwift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Cartography
+    - "UIColor+FlatColors"
+    - ZLSwipeableViewSwift
+
+SPEC CHECKSUMS:
+  Cartography: f8c899bb0f5cf20758644a8eea59a75e98a03a5d
+  "UIColor+FlatColors": 6c699df7a575281794c688c64cee6c44fd1f93b4
+  ZLSwipeableViewSwift: f5ee94c2e4220f900f5a129118af2aef23062900
+
+PODFILE CHECKSUM: 4f272954ae9afe98c3836da88da1775e441983f3
+
+COCOAPODS: 1.5.3

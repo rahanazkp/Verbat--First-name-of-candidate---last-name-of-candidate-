@@ -1,0 +1,6 @@
+framework module Pods_GifInteractionApp {
+  umbrella header "Pods-GifInteractionApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
